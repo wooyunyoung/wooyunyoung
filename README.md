@@ -3,7 +3,7 @@
 
 <p align="center">
 	<a href="https://github.com/wooyunyoung">
-	<img src="![image](https://user-images.githubusercontent.com/84673315/166101970-c2b54ced-45f4-4763-bc6f-308810475426.png)" width = "200" alt="TNT">
+	<img src="https://github.com/account" width = "200" alt="TNT">
 	</a>
 </p>
 
@@ -39,7 +39,7 @@ namespace yunyoung
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
   </a>
   
-  <a href="https://dev.to/ngoctientnt">
+  <a href="https://dev.to/wooyunyoung">
     <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
   </a>
 	
