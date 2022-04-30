@@ -3,7 +3,7 @@
 
 <p align="center">
 	<a href="https://github.com/wooyunyoung">
-	<img src="https://github.com/account" width = "200" alt="TNT">
+	<img src="https://avatars.githubusercontent.com/u/84673315?s=400&u=960759e67d99dbabe2c999a8b0fbb3fab50079a8&v=4" width = "200" alt="YunYoung">
 	</a>
 </p>
 
