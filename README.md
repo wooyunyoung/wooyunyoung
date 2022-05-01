@@ -16,10 +16,11 @@ namespace yunyoung
     {
         static void Main(string[] args)
         {
+	    string KoreaName = "우윤영";
             string Name = "Võ Thị Vân Anh";
             string Age = "1999";
             string Gender = "Female";
-            string Address = "Cần Thơ, Việt Nam";
+            string Address = "Cần Thơ, Việt Nam - 까터, 베트남";
             string University = "Trường Đại học Cần Thơ - CTU";
             string Skills = "C, C++, C#, Java, Python, HTML, JavaScript";
             string FamousQuotes = "With technology, nothing,s imporssible!";
