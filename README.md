@@ -1,5 +1,5 @@
 # <p align="center">Vân Anh</p>
-## <p align="center">우윤영</p>
+ <h2 align="center">우윤영</h2>
 
 <p align="center">
 	<a href="https://github.com/wooyunyoung">
