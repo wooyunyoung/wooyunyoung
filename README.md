@@ -23,7 +23,7 @@ namespace yunyoung
             string Address = "Cần Thơ, Việt Nam - 까터, 베트남";
             string University = "Trường Đại học Cần Thơ - CTU";
             string Skills = "C, C++, C#, Java, Python, HTML, JavaScript";
-            string FamousQuotes = "With technology, nothing,s imporssible!";
+            string FamousQuotes = "With technology, nothing's imporssible!";
         }
     }
 }
