@@ -12,7 +12,7 @@
 ```C#
 namespace yunyoung
 {
-    class vananhyunyoung
+    class gwenvo
     {
         static void Main(string[] args)
         {
