@@ -12,18 +12,18 @@
 ```C#
 namespace yunyoung
 {
-    class gwenvo
+    class yunyoung
     {
         static void Main(string[] args)
         {
 	    string KoreaName = "우윤영";
-            string Name = "Võ Thị Vân Anh";
+            string Name = "Vo Thi Van Anh";
             string Age = "1999";
             string Gender = "Female";
-            string Address = "Cần Thơ, Việt Nam - 까터, 베트남";
-            string University = "Trường Đại học Cần Thơ - CTU";
+            string Address = "Cantho, Vietnam - 까터, 베트남";
+            string University = "Cantho University- CTU";
             string Skills = "C, C++, Java, Python, HTML, JavaScript";
-            string FamousQuotes = "With technology, nothing's imporssible!";
+            string FamousQuotes = "Nothing's imporssible!";
         }
     }
 }
